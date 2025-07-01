@@ -10,8 +10,8 @@ A Windows command-line tool specifically designed to assist in manual inspection
 ## 🚀 快速开始
 ## 🚀 Quick Start
 
-1. 下载 `DMA_Detector_CLI_MantraI.exe`
-1. Download `DMA_Detector_CLI_MantraI.exe`
+1. 下载 `DMA_Detector_CLI_MantraI.py`
+1. Download `DMA_Detector_CLI_MantraI.py`
 2. 在命令行中运行，并根据需要添加参数
 2. Run in the command line, adding parameters as needed
 3. 以管理员身份运行（如果需要扫描受保护进程）
